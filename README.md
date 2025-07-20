@@ -55,21 +55,3 @@ java UnifiedMathSolver
 
 ---
 
-## 💡 Future Improvements
-
-- Add graph plotting for polynomials
-- Export results as PDF or text
-- Support for larger matrix operations
-- Support complex systems of equations
-
----
-
-## 🧑‍💻 Author
-
-**Hareesh Nallagatla** – Developer & Designer
-
----
-
-## 📝 License
-
-This project is open-source and free to use for educational purposes.
